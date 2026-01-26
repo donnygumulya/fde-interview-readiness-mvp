@@ -1,6 +1,6 @@
 # FDE Interview Readiness Analyzer MVP
 
-This project is a Minimum Viable Product (MVP) built for the Forward Deployed Engineer (FDE) assignment.  
+This project is a Minimum Viable Product (MVP).  
 The goal is to improve candidate success in client interviews by using structured feedback and AI-assisted analysis.
 
 ---
